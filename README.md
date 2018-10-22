@@ -1,5 +1,9 @@
 # Evertrello
 
+## Installing dependencies
+
+To install the project's dependencies run `yarn install`.
+
 ## Available Scripts
 
 In the project directory, you can run:
