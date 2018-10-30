@@ -1,0 +1,14 @@
+.note {
+  margin: 10px;
+  padding: 5px;
+  width: 100%;
+  background-color: #f2efda;
+}
+
+.note-header {
+  font-size: 20px;
+}
+
+.note-content {
+  font-size: 16px;
+}
