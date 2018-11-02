@@ -5,6 +5,7 @@ class Note extends Component {
   render() {
     return (
       <div className="note">
+        <div className="pin-red"></div>
         <header className="note-header">
           {this.props.title}
         </header>

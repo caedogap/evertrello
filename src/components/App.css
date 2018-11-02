@@ -3,6 +3,11 @@
 }
 
 .app-header {
-  justify-content: center;
+  display: table;
+  height: 100px;
+  width: 100%;
   font-size: 24px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: white;
+  background: linear-gradient(133deg,#00c4cc 10%,#7d2ae8 90%);
 }
