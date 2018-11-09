@@ -4,10 +4,22 @@
 
 .app-header {
   display: table;
-  height: 100px;
   width: 100%;
   font-size: 24px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: white;
   background: linear-gradient(133deg,#00c4cc 10%,#7d2ae8 90%);
+}
+
+.app-header h1 {
+  width: 95%;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.fa-plus-circle {
+  width: 5%;
+  float: left;
+  margin-top: 30px;
 }

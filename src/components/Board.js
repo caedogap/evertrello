@@ -16,7 +16,7 @@ class Board extends Component {
     return (
       <div className="board">
           <header className="board-header">
-            <div className="pin-blue"></div>
+            <div className="pin-green"></div>
             <h3>{this.props.title}</h3>
           </header>
           <div className="board-content">

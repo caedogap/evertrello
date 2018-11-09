@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import Board from './Board.js';
 import './App.css';
 
@@ -83,6 +84,7 @@ class App extends Component {
       <div className="app">
         <header className="app-header">
           <h1>EverTrello</h1>
+          <FontAwesomeIcon size='2x' icon="plus-circle" />
         </header>
         {boards}
       </div>

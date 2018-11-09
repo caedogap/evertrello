@@ -29,11 +29,11 @@
   padding: 5px;
 }
 
-.pin-blue {
+.pin-green {
   height: 15px;
   width: 15px;
-  background-color: blue;
-  border: solid 1px darkblue;
+  background-color: #00c4cc;
+  border: solid 1px #005659;
   border-radius: 50%;
   display: inline-block;
   box-shadow: 0px 5px 5px 0px grey;
