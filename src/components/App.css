@@ -12,14 +12,12 @@
 }
 
 .app-header h1 {
-  width: 95%;
+  width: 90%;
   float: left;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
 .fa-plus-circle {
-  width: 5%;
-  float: left;
   margin-top: 30px;
 }
